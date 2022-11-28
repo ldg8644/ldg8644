@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?text=DongGeun&nbsp;Lee&color=gradient)
+![header](https://capsule-render.vercel.app/api?color=gradient&text=DongGeun&nbsp;Lee)
